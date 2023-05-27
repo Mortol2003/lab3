@@ -20,5 +20,9 @@
     <string name="Box">контейнер Box</string>
     <string name="Surface">контейнер Surface</string>
     <string name="Scaffold">контейнер Scaffold</string>
-    <string name="menu">меню</string>
+    <string name="menu">меню</string> <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="swift">Swift</string>
+    <string name="ios">iOS</string>
+    <string name="covers">Covers</string>
 </resources>

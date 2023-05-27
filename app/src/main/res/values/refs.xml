@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="saving_data_android" />
+    <drawable name="advanced_architecture_android" />
+    <drawable name="kotlin_coroutines" />
+    <drawable name="kotlin_aprentice" />
+    <drawable name="combine" />
+    <drawable name="rx_swift" />
+    <drawable name="swift_apprentice" />
+    <drawable name="core_data" />
+    <drawable name="ios_apprentice" />
+</resources>
